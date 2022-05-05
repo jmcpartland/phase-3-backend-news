@@ -1,6 +1,4 @@
 {
-    "status": "ok",
-    "totalResults": 38,
     "articles": [
         {
             "source": {
@@ -261,6 +259,266 @@
             "urlToImage": "https://www.gannett-cdn.com/presto/2021/06/17/USAT/eed56e20-bb7e-49eb-ac2d-dfb2f29ad8be-GTY_1323276299.jpg?auto=webp&crop=5360,3015,x0,y272&format=pjpg&width=1200",
             "publishedAt": "2022-05-03T15:33:45Z",
             "content": "Authorities in Las Vegas say a barrel containing human remains was discovered in Lake Mead, and more could turn up amid a drought that has dropped the lake's water level to historic lows. \r\nThe barre… [+2757 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Jill Colvin",
+            "title": "Live updates | Voters to decide Ohio's heated Senate primary - The Associated Press",
+            "description": "COLUMBUS, Ohio (AP) — “Hillbilly Elegy” author JD Vance   won Ohio’s contentious and hyper-competitive  GOP Senate primary on Tuesday, buoyed by Donald Trump’s endorsement in a race that was an early test of the former president’s hold on his party as the mid…",
+            "url": "https://apnews.com/9eeeed38cff92dbd88f1a7d48dcbfefc",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f5d8442c9e7b47f486e2dd2236cbc80b/3000.jpeg",
+            "publishedAt": "2022-05-04T16:03:58Z",
+            "content": "COLUMBUS, Ohio (AP) Hillbilly Elegy author JD Vance won Ohios contentious and hyper-competitive GOP Senate primary on Tuesday, buoyed by Donald Trumps endorsement in a race that was an early test of … [+7867 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Tom Sykes",
+            "title": "Family: 'Toddlers & Tiaras' Star Kailia Posey Died by Suicide - The Daily Beast",
+            "description": "Just days earlier, the 16-year-old was pictured smiling with friends before her school prom.",
+            "url": "https://www.thedailybeast.com/kailia-posey-toddlers-and-tiaras-child-star-died-of-suicide-her-family-says",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_296,w_526,x_0,y_34/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1651665975/279893374_10227114913969867_353235959958978454_n_bsep00",
+            "publishedAt": "2022-05-04T15:27:26Z",
+            "content": "Kailia Posey, the child pageant star of Toddlers &amp; Tiaras, died by suicide, her family has said.\r\nOn Monday, it was reported that Posey, who turned 16 last month, had been found dead in a car at … [+1967 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jordan Valinsky, CNN Business",
+            "title": "TurboTax to pay customers $141 million after allegedly steering them away from free services - CNN",
+            "description": "Intuit, the owner of tax filing software TurboTax, has agreed to pay $141 million in a settlement with all 50 states for allegedly steering millions of low-income Americans away from free tax-filing services.",
+            "url": "https://www.cnn.com/2022/05/04/business/turbotax-intuit-settlement/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220504094044-turbo-tax-file-2018-super-tease.jpg",
+            "publishedAt": "2022-05-04T15:21:00Z",
+            "content": "New York (CNN Business)Intuit, the owner of tax filing software TurboTax, has agreed to pay $141 million in a settlement with all 50 states for allegedly steering millions of low-income Americans awa… [+1757 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Kevin Breuninger",
+            "title": "Watch live: Biden speaks on the economy and job growth ahead of major Fed rate decision - CNBC",
+            "description": "Biden's speech from the White House Roosevelt Room comes as persistent inflation has sent prices rising to historic levels over the past year.",
+            "url": "https://www.cnbc.com/2022/05/04/biden-speaks-on-the-economy-job-growth-before-big-fed-rate-decision.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107053071-1651162390209-gettyimages-1240301011-AFP_329663G.jpeg?v=1651162432&w=1920&h=1080",
+            "publishedAt": "2022-05-04T14:55:45Z",
+            "content": "[The stream is slated to start at 11 a.m. ET. Please refresh the page if you do not see a player above at that time.]\r\nPresident Joe Biden is set to deliver remarks on the economy, job growth and def… [+922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2022 NFL quarterback tiers: Here's where your team's starter fits among franchise guys, placeholders and more - CBS Sports",
+            "description": "Jason La Canfora unveils his 2022 QB rankings by tiers, with lots of movement since last year",
+            "url": "https://www.cbssports.com/nfl/news/2022-nfl-quarterback-tiers-heres-where-your-teams-starter-fits-among-franchise-guys-placeholders-and-more/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/05/04/6ccbfb34-4a8a-4dc8-8645-a8f6cb6eac73/thumbnail/1200x675/2b2767900b081fcd23fcbdd0ebc42d9c/burrowstafford.jpg",
+            "publishedAt": "2022-05-04T14:52:00Z",
+            "content": "Never have we seen as wild of a quarterback offseason as this. We are barely beyond the draft, and the multitude of quarterback-related transactions has been staggering, both in trades and contracts.… [+8844 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Allison Morrow, CNN Business",
+            "title": "These companies will help staff in red states bypass abortion bans - CNN",
+            "description": "Millions of women in more than 25 states face an abortion ban if the Supreme Court overturns Roe v. Wade, the landmark 1973 decision that legalized the procedure nationwide. For many of those women, employers' benefit packages may be the only way they can soo…",
+            "url": "https://www.cnn.com/2022/05/03/business/amazon-abortion-costs/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220503101454-01-amazon-packages-file-super-tease.jpg",
+            "publishedAt": "2022-05-04T14:47:00Z",
+            "content": "New York (CNN Business)Millions of women in more than 25 states face an abortion ban if the Supreme Court overturns Roe v. Wade, the landmark 1973 decision that legalized the procedure nationwide. Fo… [+6674 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "This time, can Boeing’s Starliner finally shine? - Ars Technica",
+            "description": "Ten months later, another chance at a do-over for Boeing's crewed spacecraft.",
+            "url": "https://arstechnica.com/science/2022/05/this-time-can-boeings-starliner-finally-shine/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/FR5t-veWYAANq58-760x380.jpg",
+            "publishedAt": "2022-05-04T14:28:29Z",
+            "content": "Enlarge/ Boeing says its Starliner spacecraft is ready to roll to the launch pad in Florida.\r\n39 with 31 posters participating\r\nBoeing and NASA say the Starliner spacecraft is ready for a do-over fli… [+4183 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Amara Omeokwe, Caitlin Ostroff, Harriet Torry, Nick Timiraos, Michael S. Derby",
+            "title": "Fed Meeting Latest News: Powell Set to Raise Interest Rates a Half Percentage Point - The Wall Street Journal",
+            "description": "Full coverage of the Federal Reserve's May meeting",
+            "url": "https://www.wsj.com/livecoverage/federal-reserve-meeting-inflation-rate-may-2022",
+            "urlToImage": "https://images.wsj.net/im-536946/social",
+            "publishedAt": "2022-05-04T14:27:00Z",
+            "content": "Federal Reserve officials have suggested the central bank could raise its benchmark interest rate by half a percentage point at its Federal Open Market Committee meeting May 3-4.\r\nAggressive action n… [+2479 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Yaroslav Trofimov | Photographs by Manu Brabo for The Wall Street Journal",
+            "title": "Ukraine Retakes Villages Near Kharkiv, Easing Pressure on Battered City - The Wall Street Journal",
+            "description": "Recent Ukrainian gains outside the country’s second most-populous city could blunt Russia’s attempt to conquer the eastern Donbas region.",
+            "url": "https://www.wsj.com/articles/ukraine-retakes-villages-near-kharkiv-easing-pressure-on-battered-city-11651669856",
+            "urlToImage": "https://images.wsj.net/im-537177/social",
+            "publishedAt": "2022-05-04T14:06:00Z",
+            "content": "KHARKIV, UkraineUkrainian forces are ousting Russian troops from a string of villages that were used to strike the countrys second most-populous city, Kharkiv, regaining strategic terrain that could … [+307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "LIVE: Amber Heard takes the stand in libel trial alleged by Johnny Depp - Yahoo Finance",
+            "description": "#JohnnyDepp #AmberHeard #JohnnyDeppAmberHeard The defamation trial continues of libel allegations by Johnny Depp against his ex-wife Amber Heard.Don't Miss: ...",
+            "url": "https://www.youtube.com/watch?v=M5UpLzI6CRc",
+            "urlToImage": "https://i.ytimg.com/vi/M5UpLzI6CRc/maxresdefault_live.jpg",
+            "publishedAt": "2022-05-04T13:58:02Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lisa Respers France, CNN",
+            "title": "The Rock & Roll Hall of Fame Class of 2022 includes Dolly Parton, Lionel Richie and Pat Benatar - CNN",
+            "description": "Other inductees include Eminem, Carly Simon, Harry Belafonte, Duran Duran, Eurythmics and Judas Priest.",
+            "url": "https://www.cnn.com/2022/05/04/entertainment/rock-and-roll-hall-of-fame-class-of-2022/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220504084405-parton-richie-benatar-split-super-tease.jpg",
+            "publishedAt": "2022-05-04T13:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seahawks.com"
+            },
+            "author": "John Boyle",
+            "title": "Seahawks Will Play Buccaneers In Germany In 2022 - Seahawks.com",
+            "description": "The Seahawks will play the Tampa Bay Buccaneers in Munich on November 13.",
+            "url": "https://www.seahawks.com/news/international-game-germany-buccaneers-november-13-2022",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/seahawks/hg4q24dn9we2agk48lk5",
+            "publishedAt": "2022-05-04T13:09:09Z",
+            "content": "The Seahawks will be counting on their fans in Germany, the UK and the rest of Europe, as well as fans who make the trip from the United States, to turn Munich into home in November. And if Allianz A… [+818 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Breaking down Celtics Game 2 dominant win over the Bucks | Get Up - ESPN",
+            "description": "The Get Up crew discusses the keys to victory for the Boston Celtics in their 109-86 win over the Milwaukee Bucks in Game 2.#ESPN #NBA ✔️Subscribe to ESPN+ h...",
+            "url": "https://www.youtube.com/watch?v=6GtLKOr0KJU",
+            "urlToImage": "https://i.ytimg.com/vi/6GtLKOr0KJU/hqdefault.jpg",
+            "publishedAt": "2022-05-04T12:59:38Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Russian Orthodox Church scolds Pope Francis after 'Putin's altar boy' remark - Reuters.com",
+            "description": "The Russian Orthodox Church scolded Pope Francis on Wednesday for using the wrong tone after he urged Patriarch Kirill not to become the Kremlin's \"altar boy\", cautioning the Vatican that such remarks would hurt dialogue between the churches.",
+            "url": "https://www.reuters.com/world/europe/kremlin-says-no-agreement-reached-possible-meeting-between-putin-pope-francis-2022-05-04/",
+            "urlToImage": "https://www.reuters.com/resizer/zHtydXHrxu4pCMX6MpR_4w8AjHY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VMZCU5NZBVJ63LKZPDR227MU6A.jpg",
+            "publishedAt": "2022-05-04T12:51:00Z",
+            "content": "LONDON, May 4 (Reuters) - The Russian Orthodox Church scolded Pope Francis on Wednesday for using the wrong tone after he urged Patriarch Kirill not to become the Kremlin's \"altar boy\", cautioning th… [+3595 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WMUR Manchester"
+            },
+            "author": "KC Downey",
+            "title": "Harmony Montgomery report released by Massachusetts office of the child advocate - WMUR Manchester",
+            "description": "A report regarding how Massachusetts officials handled the Harmony Montgomery case was released Wednesday morning.",
+            "url": "https://www.wmur.com/article/harmony-montgomery-massachusetts-report-5422/39902871",
+            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/harmony-montgomery-new-pics-1643306302.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2022-05-04T12:50:00Z",
+            "content": "MANCHESTER, N.H. —Live in the video player above at 11 a.m.: Officials are holding a news conference about the report into the handling of the Harmony Montgomery case. Read the full report here.\r\nSee… [+6272 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBC Southern California"
+            },
+            "author": null,
+            "title": "Comedian Dave Chappelle Tackled Onstage During LA Festival Show - NBC Southern California",
+            "description": "A man who police said was armed with a replica gun rushed on a stage and tackled comedian Dave Chappelle as he was performing at a Los Angeles comedy festival…",
+            "url": "https://www.nbclosangeles.com/news/national-international/comedian-dave-chappelle-tackled-on-stage-during-la-festival-show/2885200/",
+            "urlToImage": "https://media.nbclosangeles.com/2022/05/GettyImages-1372006909-e1651649678261.jpeg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2022-05-04T12:44:33Z",
+            "content": "A man who police said was armed with a replica gun rushed a stage and tackled comedian Dave Chappelle as he was performing at a Los Angeles comedy festival late Tuesday.\r\nThe Los Angeles Police Depar… [+2462 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Laurence Norman, Paul Hannon and Joe Wallace",
+            "title": "EU Proposes Ban on Russian Oil Imports, Sending Prices Higher - The Wall Street Journal",
+            "description": "The European Union proposed a ban on Russian crude within six months and is set to impose sanctions on Russian military officials accused of war crimes.",
+            "url": "https://www.wsj.com/articles/eu-proposes-ban-on-russian-oil-imports-11651648950",
+            "urlToImage": "https://images.wsj.net/im-536424/social",
+            "publishedAt": "2022-05-04T12:12:00Z",
+            "content": "BRUSSELSThe European Union proposed a ban on imports of Russian crude within six months and on refined oil products from the country by year-end, prompting a jump in oil prices, while the bloc is set… [+491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Spencer Kimball",
+            "title": "Moderna blows out first-quarter earnings expectations, triples Covid vaccine sales - CNBC",
+            "description": "Moderna's first-quarter vaccine sales more than tripled over the same period last year, when it reported $1.7 billion in sales.",
+            "url": "https://www.cnbc.com/2022/05/04/covid-moderna-mrna-q1-earnings-2022.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106990248-1639657781613-gettyimages-1237257297-AFP_9UQ6YW.jpeg?v=1651613071&w=1920&h=1080",
+            "publishedAt": "2022-05-04T11:20:33Z",
+            "content": "Moderna sold $5.9 billion of its Covid vaccine in the first quarter, blowing out revenue and profit expectations.\r\nThe biotech company's shares soared by more than 7% in premarket trading on Wednesda… [+2836 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Brooke Singman",
+            "title": "Biden to sign executive order, national security memo to advance quantum technologies - Fox News",
+            "description": "President Biden is expected to sign an executive order and national security memo to advance quantum information science so U.S. in a position to “leapfrog\" ahead of adversaries and mitigate risks.",
+            "url": "https://www.foxnews.com/politics/biden-executive-order-national-security-memo-quantum-technologies",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/04/2022-04-11T050034Z_1346383322_RC2SDT9MFSWO_RTRMADP_3_UKRAINE-CRISIS-USA-OIL.jpg",
+            "publishedAt": "2022-05-04T11:03:02Z",
+            "content": "President Biden is expected to sign an executive order and a national security memo Wednesday to advance quantum information science in an effort to place the United States in a position to be able t… [+3617 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Kremlin dismisses speculation Putin to declare war on Ukraine on May 9 - Reuters.com",
+            "description": "The Kremlin on Wednesday dismissed speculation that President Vladimir Putin planned to declare war against Ukraine and declare a national mobilisation on May 9 when Russia commemorates the Soviet Union's victory in World War Two.",
+            "url": "https://www.reuters.com/world/europe/kremlin-dismisses-speculation-putin-declare-war-ukraine-may-9-2022-05-04/",
+            "urlToImage": "https://www.reuters.com/resizer/iARDWpVdFn7DjFiiTXJmGpuHTLU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XXIOIU3VIBJVFDKNQ7PTBJGHDU.jpg",
+            "publishedAt": "2022-05-04T10:59:00Z",
+            "content": "LONDON, May 4 (Reuters) - The Kremlin on Wednesday dismissed speculation that President Vladimir Putin planned to declare war against Ukraine and declare a national mobilisation on May 9 when Russia … [+2188 chars]"
         }
     ]
 }
