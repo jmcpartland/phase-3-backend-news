@@ -1,3 +1,4 @@
+
 class GetData < ActiveRecord::Base
     
     # this class is for extracting data from a local json file and create a seed file with the data.
@@ -6,6 +7,13 @@ class GetData < ActiveRecord::Base
 
     def self.grab
         file = File.read('news-api-data.json')
-        data_hash = JSON.parse(file)
+        @news = JSON.parse(file)
     end
+
+    def self.article_seed
+        self.grab
+        news_seeding = @news['articles'].map {|x| "Article.create(source: '#{x['source']['name']}'),"}.uniq.join("\n")
+        seed_file = File.open('seed_file.rb', 'w') { |f| f.write news_seeding }
+    end
+
 end

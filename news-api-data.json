@@ -1,5 +1,5 @@
-{
-    "articles": [
+    {
+        "articles": [
         {
             "source": {
                 "id": null,
@@ -11,7 +11,7 @@
             "url": "https://www.nytimes.com/live/2022/05/03/sports/champions-league-semifinal-soccer",
             "urlToImage": "https://static01.nyt.com/images/2022/05/03/multimedia/03champions-lead-4/03champions-lead-4-articleLarge.jpg",
             "publishedAt": "2022-05-03T20:31:28Z",
-            "content": "May 3, 2022, 3:57 p.m. ET\r\nMay 3, 2022, 3:57 p.m. ETRory Smith\r\nYou can, ultimately, rely on the Champions League. A little less than an hour ago, Liverpool was sailing through to a third final in fi… [+1095 chars]"
+            "content": "May 3, 2022, 3:57 p.m. ET May 3, 2022, 3:57 p.m. ETRory Smith\r\nYou can, ultimately, rely on the Champions League. A little less than an hour ago, Liverpool was sailing through to a third final in fi… [+1095 chars]"
         },
         {
             "source": {
@@ -1410,7 +1410,7 @@
                 "name": "Substack.com"
             },
             "author": "Bryan Lunduke",
-            "title": "Richard Stallman – “The state of the Free Software movement” – April 13, 2022",
+            "title": "Richard Stallman - “The state of the Free Software movement” – April 13, 2022",
             "description": "Free Software founder has choice words for Ubuntu, Apple. Announces a manual for GNU C.",
             "url": "https://lunduke.substack.com/p/richard-stallman-the-state-of-the",
             "urlToImage": "https://cdn.substack.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf41b5b4-8184-492a-be31-b7b3b1aaa2b5_400x279.jpeg",
@@ -1545,7 +1545,7 @@
             "url": "http://www.e-basteln.de/computing/papertape/overview/",
             "urlToImage": null,
             "publishedAt": "2022-04-16T13:45:42Z",
-            "content": "Vintage Computing – \r\n Paper Tape ReaderOverview\r\nThis little manual paper tape reader is easy to build and operate. It connects to any modern computer via USB, and performs well with all kinds of 5 … [+3388 chars]"
+            "content": "Vintage Computing - \r\n Paper Tape ReaderOverview\r\nThis little manual paper tape reader is easy to build and operate. It connects to any modern computer via USB, and performs well with all kinds of 5 … [+3388 chars]"
         },
         {
             "source": {
