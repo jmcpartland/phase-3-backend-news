@@ -10,10 +10,16 @@ class GetData < ActiveRecord::Base
         @news = JSON.parse(file)
     end
 
+    def self.source_seed
+        self.grab
+        news_seeding = @news['articles'].map {|x| "Source.create(name: '#{x['source']['name']}'),"}.uniq.join("\n")
+        seed_file = File.open('seed_file.rb', 'w') { |f| f.write news_seeding }
+    end
+
     def self.article_seed
         self.grab
-        news_seeding = @news['articles'].map {|x| "Article.create(source: '#{x['source']['name']}'),"}.uniq.join("\n")
-        seed_file = File.open('seed_file.rb', 'w') { |f| f.write news_seeding }
+        news_seeding = @news['articles'].map {|x| "Article.create(name: '#{x['author']}'),"}.join("\n")
+        seed_file = File.open('seed_file.rb', 'a') { |f| f.write news_seeding }
     end
 
 end
