@@ -26,7 +26,13 @@ class GetData < ActiveRecord::Base
     def self.article_seed
         self.grab
         news_seeding = @news['articles'].map { |x|
-            "Article.create(author: '#{x['author']}', title: '#{x['title']}', description: '#{x['description']}'),"
+            "Article.create( author: '#{x["author"]}', 
+                title: '#{x['title']}', 
+                description: '#{x['description']}', 
+                url: '#{x['url']}', 
+                urlToImage: '#{x['urlToImage']}', 
+                publishedAt: '#{x['publishedAt']}', 
+                content: '#{x['content']}'),"
         }.join("\n")
             seed_file = File.open('seed_file.rb', 'a') { |f| f.write news_seeding }
         
