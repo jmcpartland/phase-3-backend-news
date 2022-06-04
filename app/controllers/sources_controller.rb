@@ -1,7 +1,8 @@
 class SourcesController < ApplicationController
 
     get '/sources' do
-        Source.all.to_json
+        sources = Source.all
+        sources.to_json #(include: :articles)
     end
 
 end
