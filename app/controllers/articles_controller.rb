@@ -1,17 +1,29 @@
 class ArticlesController < ApplicationController
 
-    # REST index
+    # Read
     get '/articles' do
-        Article.all.to_json
+        article = Article.all
+        article.to_json
     end
 
+    # Create
     post '/articles' do
-        article = Article.create(params).to_json
+        article = Article.create(params)
+        article.to_json
     end
 
+    # Delete
     delete '/articles/:id' do
-        article = Article.find_by(id: params(:id))
+        article = Article.find_by(id: params[:id])
         article.destroy
+    end
+
+    # Update
+    patch '/articles/:id' do
+        article = Article.find_by(id: params[:id])
+        # binding.pry
+        article.update(read: params[:read])
+        article.to_json
     end
 
 end
